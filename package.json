@@ -1,0 +1,24 @@
+{
+  "name": "wx-jsencrypt",
+  "version": "3.0.0-rc.1.4",
+  "description": "https://github.com/travist/jsencrypt",
+  "main": "jsencrypt.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muumlover/jsencrypt.git"
+  },
+  "keywords": [
+    "rsa",
+    "encrypt",
+    "decrypt"
+  ],
+  "author": "travist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muumlover/jsencrypt/issues"
+  },
+  "homepage": "https://github.com/muumlover/jsencrypt#readme"
+}
